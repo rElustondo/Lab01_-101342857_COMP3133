@@ -1,0 +1,13 @@
+country, population, year 
+Canada, 14785584, 1952
+Canada, 17010154, 1957
+Canada, 18985849, 1962
+Canada, 20819767, 1967
+Canada, 22284500, 1972
+Canada, 23796400, 1977
+Canada, 25201900, 1982
+Canada, 26549700, 1987
+Canada, 28523502, 1992
+Canada, 30305843, 1997
+Canada, 31902268, 2002
+Canada, 33390141, 2007

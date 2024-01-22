@@ -1,0 +1,13 @@
+country, population, year 
+United States, 157553000, 1952
+United States, 171984000, 1957
+United States, 186538000, 1962
+United States, 198712000, 1967
+United States, 209896000, 1972
+United States, 220239000, 1977
+United States, 232187835, 1982
+United States, 242803533, 1987
+United States, 256894189, 1992
+United States, 272911760, 1997
+United States, 287675526, 2002
+United States, 301139947, 2007
